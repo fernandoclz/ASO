@@ -1,0 +1,8 @@
+P3
+# Ejemplo de imagen en formato plain ppm (man 5 ppm)
+4 4
+15
+0  0  0    0  0  0    0  0  0   15  0 15
+0  0  0    0 15  7    0  0  0    0  0  0
+0  0  0    0  0  0    0 15  7    0  0  0
+15  0 15    0  0  0    0  0  0    0  0  0
